@@ -1,0 +1,13 @@
+Rest API - JSON
+
+GET api/users - List all users
+Dynamically get users through the req.params.ID
+GET api/users/1 - Get information of user 1
+GET api/users/2 -Get User 2 information
+
+POST /users - create new user
+
+PATCH /users/1 - update the user
+
+DELETE /users/1 -DELETE the user with ID 1
+
